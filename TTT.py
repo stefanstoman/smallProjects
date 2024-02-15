@@ -1,4 +1,5 @@
 #This is my attempt to create a tick-tack-toe game
+#This game is not finished, but I made it when I started learning Python
 
 print('Welcome to Stefan-Tick-Tack-Toe!')
 print('How to play the game:')
